@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(Youngetc);Database=Youngtec;User Id=sa;Password=Opc.net"
+  }
+}
+
